@@ -1,8 +1,8 @@
 {
   "version": "1.0.4",
-  "version_code": 5,
-  "apk_url": "https://expo.dev/artifacts/eas/RNUhMM7nguQvbKhPVEy6PIxZKPwdMUCySI0LQE5gcA4.apk",
-  "message": "Nova verzija Pizzabooka je dostupna: aplikacija sada ima novu ikonu i pouzdaniji rad sa slikama, video objavama i galerijom.",
+  "version_code": 9,
+  "apk_url": "https://expo.dev/artifacts/eas/PgrlOZq1XoSPNvpcsId2hWvT2rD8IMn9d2fgI3mJ9WQ.apk",
+  "message": "Nova verzija Pizzabooka je dostupna! Ažurirana je ikona aplikacije, a rad sa slikama, video objavama i galerijom sada je pouzdaniji. Preuzmi update i isprobaj novosti.",
   "github_url": "https://github.com/branimirjeli-svg/pizzabook",
-  "github_message": "Nova verzija Pizzabooka je završena. Pogledaj novosti i izvorni kod na GitHubu."
+  "github_message": "Nova verzija Pizzabooka je dostupna na GitHubu."
 }
